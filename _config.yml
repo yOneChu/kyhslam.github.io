@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: yOneChu Dev note
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: kyhslam@gmail.com
 name: younghwan kim
@@ -18,7 +18,7 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
+baseurl: "/yonechu" # the subpath of your site, e.g. /blog/
 url: "http://yonechu.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
@@ -86,7 +86,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: younghwan kim
     url: https://github.com/yonechu
     desc: Fork me on GitHub
     share: false
