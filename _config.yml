@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: yOneChu Dev note
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: younghwan's Dev Note
+subtitle: "Better than Yesterday (feat younghwan)"
 email: kyhslam@gmail.com
 name: younghwan kim
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Better than Yesterday
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -79,7 +79,7 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: kyhslam
     url:
     desc: Friend me on Facebook
     share: true
@@ -133,12 +133,12 @@ social:
     desc: Follow me on SoundCloud
     share: false
 
-  - name: Tumblr
-    icon: tumblr
-    username:
-    url:
-    desc: Follow me on Tumblr
-    share: false
+  # - name: Tumblr
+  #   icon: tumblr
+  #   username:
+  #   url:
+  #   desc: Follow me on Tumblr
+  #   share: false
 
   - name: Steam
     icon: steam
@@ -147,40 +147,40 @@ social:
     desc: Friend me on Steam
     share: false
 
-  - name: Dribbble
-    icon: dribbble
-    username:
-    url:
-    desc: Follow me on Dribble
-    share: false
+  # - name: Dribbble
+  #   icon: dribbble
+  #   username:
+  #   url:
+  #   desc: Follow me on Dribble
+  #   share: false
 
-  - name: Vimeo
-    icon: vimeo-square
-    username:
-    url:
-    desc: Follow me on Vimeo
-    share: false
+  # - name: Vimeo
+  #   icon: vimeo-square
+  #   username:
+  #   url:
+  #   desc: Follow me on Vimeo
+  #   share: false
 
-  - name: Vine
-    icon: vine
-    username:
-    url:
-    desc: Follow me on Vine
-    share: false
+  # - name: Vine
+  #   icon: vine
+  #   username:
+  #   url:
+  #   desc: Follow me on Vine
+  #   share: false
 
-  - name: Reddit
-    icon: reddit
-    username:
-    url:
-    desc: Share to Reddit
-    share: true
+  # - name: Reddit
+  #   icon: reddit
+  #   username:
+  #   url:
+  #   desc: Share to Reddit
+  #   share: true
 
-  - name: "Hacker News"
-    icon: hacker-news
-    username:
-    url:
-    desc: Share to Hacker News
-    share: false
+  # - name: "Hacker News"
+  #   icon: hacker-news
+  #   username:
+  #   url:
+  #   desc: Share to Hacker News
+  #   share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
