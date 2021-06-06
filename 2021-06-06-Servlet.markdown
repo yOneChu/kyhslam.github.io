@@ -2,6 +2,7 @@
 layout: post
 title:  "[JSP/Servlet] JSP 문법과 생명주기"
 date:   2015-04-18 08:43:59
+author: younghwan kim
 categories: Dummy
 ---
 
