@@ -1,10 +1,8 @@
 ---
-layout: article
-title: "[JSP/Servlet] JSP 문법과 생명주기"
-tags:
-  - JSP/Servlet
-date: 2020-07-22T08:06:00-05:00
-key: "[JSP/Servlet] JSP 문법과 생명주기"
+layout: post
+title:  "[JSP/Servlet] JSP 문법과 생명주기"
+date:   2015-04-18 08:43:59
+categories: Dummy
 ---
 
 # JSP의 특징
