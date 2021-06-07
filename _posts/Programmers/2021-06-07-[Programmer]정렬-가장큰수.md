@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[정렬] 가장큰수"
+title:  "[Programmers]정렬-가장큰수"
 date:   2021-06-07
 author: YoungHwan Kim
 categories: "Programmers"
