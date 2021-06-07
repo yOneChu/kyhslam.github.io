@@ -3,9 +3,9 @@ layout: post
 title:  "[정렬] 가장큰수"
 date:   2021-06-07
 author: YoungHwan Kim
-categories: 프로그래머스
+categories: "Programmers"
 comment : true
-tags:	알고리즘
+tags:	"알고리즘"
 cover:  ""
 ---
 
