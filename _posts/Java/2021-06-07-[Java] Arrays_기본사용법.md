@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Java] Arrays 기본 사용법"
+title:  "[Java] Arrays_기본 사용법"
 date:   2021-06-08
 author: YoungHwan Kim
 categories: Java
