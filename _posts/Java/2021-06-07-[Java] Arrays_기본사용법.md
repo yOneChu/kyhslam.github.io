@@ -17,6 +17,7 @@ cover:  ""
 ## binarySearch ##
 - **binarySearch()** 는 반드시 배열이 정렬된 상태에서만 올바르게 작동한다.
 - 그리고 주의할 점은 배열에 검색한 값과 일치하는 요소들이 중복으로 있으면 어떤 것의 위치가 반환될지 알 수 없다.
+
 ```
 package org.kyhslam.collectEx;
 
