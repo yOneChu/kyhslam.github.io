@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Java] Comparable_Comparator.md"
+title:  "[Java] Comparable_Comparator "
 date:   2021-06-09
 author: YoungHwan Kim
 categories: Java
@@ -72,20 +72,6 @@ import java.util.Comparator;
 public class compareTest01 {
 
     public static void main(String[] args) {
-
-        /**
-         *
-         * compare()와 compareTo()은 선언형태와 이름이 약간 다를뿐 두 객체를 비교한다는 같은 기능을 목적으로
-         * 고안된 것이다.
-         *
-         * compareTo()의 반환값은 int이지만 실제로는 비교하는 두 객체가 같으면 0, 비교하는 값보다 작은면 음수
-         * 크면 양 수를 반환한다.
-         *
-         * Comparable - 기본 정렬기준을 구현하는데 사용
-         * Comparator - 기본 정렬기준 외에 다른 기준으로 정렬하고자할 때 사용
-         *
-         *
-         */
 
         String[] str = {"3", "30", "34", "5", "9"};
 
