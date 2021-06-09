@@ -9,7 +9,7 @@ permalink: /about/
 ## About kyh
 개발자 김영환 [Kim YoungHwan] 의 학습 블로그 입니다.
 
-Back-End / Android Engineer
+Back-End / Springboot, JPA
 
 
 [Kim YoungHwan]: [https://blog.naver.com/kyhslam]
