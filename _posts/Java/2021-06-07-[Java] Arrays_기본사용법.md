@@ -6,7 +6,7 @@ author: YoungHwan Kim
 categories: Java
 comment : true
 tags:	Java
-cover:  ""
+cover:  "/assets/instacode.png"
 ---
 
 
