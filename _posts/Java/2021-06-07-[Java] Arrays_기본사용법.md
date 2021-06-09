@@ -19,8 +19,6 @@ cover:  ""
 - 그리고 주의할 점은 배열에 검색한 값과 일치하는 요소들이 중복으로 있으면 어떤 것의 위치가 반환될지 알 수 없다.
 
 ```
-package org.kyhslam.collectEx;
-
 import java.util.Arrays;
 import java.util.List;
 
@@ -29,7 +27,7 @@ public class arraysTest01 {
     public static void main(String[] args) {
         int[] arr = {3,2,0,1,4};
         int[] arr2 = {3,2,9,10,43};
-        //int[][] arr2D = {{11,12},{21,22}};
+        int[][] arr2D = {{11,12},{21,22}};
         int[][] arr2D2 = {{11,72}, {21,82}};
         String[] str = {"11", "22", "33"};
 
