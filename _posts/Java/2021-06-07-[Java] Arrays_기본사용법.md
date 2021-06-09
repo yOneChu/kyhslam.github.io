@@ -60,11 +60,10 @@ System.out.println(Arrays.deepEquals(arr2D, arr2D2)); // 2차원 배열 이상�
 ## asList 사용법 ##
 - **Arrays.asList()** 는 배열을 List에 담아서 반환한다.
 - 주의할 점은 asList()가 **반환한 List의 크기는 변경할 수 없다.**
+- 
+- 선언 방법
 ```
-// 방법1 
 List list = Arrays.asList(new Integer[] {1,2,3,4,5});   // [1, 2, 3, 4, 5]
-
-// 방법2
 List list2 = Arrays.asList(1,2,3,4,5); // [1, 2, 3, 4, 5]
 ```
 
