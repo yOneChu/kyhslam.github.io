@@ -27,15 +27,13 @@ public class arraysTest01 {
     public static void main(String[] args) {
         int[] arr = {3,2,0,1,4};
         int[] arr2 = {3,2,9,10,43};
-        int[][] arr2D = {{11,12},{21,22}};
-        int[][] arr2D2 = {{11,72}, {21,82}};
+        int[][] arr2D; // 2차원 배열
+        int[][] arr2D2; // 2차원 배열
         String[] str = {"11", "22", "33"};
 
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));
         int idx = Arrays.binarySearch(arr, 2);  // idx = 2
-        // binarySearch는 반드시 배열이 정렬된 상태에서만 올바른 결과를 얻는다.
-        // 그리고 검색한 값과 일치하는 요소들이 있으면 어떤 것의 위치가 반환될지 알수없다.
     }
 
 }
