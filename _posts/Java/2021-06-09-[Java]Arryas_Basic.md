@@ -28,7 +28,7 @@ public class arraysTest01 {
         int[] arr = {3,2,0,1,4};
         int[] arr2 = {3,2,9,10,43};
         int[][] arr2D; 
-        int[][] arr2D2 = {{11,72}, {21,82}};
+        int[][] arr2D2;
         String[] str = {"11", "22", "33"};
 
         Arrays.sort(arr);
