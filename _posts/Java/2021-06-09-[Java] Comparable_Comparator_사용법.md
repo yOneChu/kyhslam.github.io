@@ -6,7 +6,7 @@ author: YoungHwan Kim
 categories: Java
 comment : true
 tags:	Java,Comparable,Comparator
-cover:  ""
+cover:  "/assets/instacode.png"
 ---
 
 
