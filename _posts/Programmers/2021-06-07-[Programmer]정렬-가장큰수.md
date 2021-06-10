@@ -6,7 +6,7 @@ author: YoungHwan Kim
 categories: "Programmers"
 comment : true
 tags:	"알고리즘"
-cover:  ""
+cover:  "/assets/instacode.png"
 ---
 
 
