@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "[Java] JDK,JRE,JIT..등 이란?"
+title:  "[Java] JDK,JRE,JIT,JVM..등 이란?"
 date:   2021-06-18
 author: YoungHwan Kim
 categories: Java
 comment : true
-tags:	Java,jdk,jre,jit
+tags:	Java,jdk,jre,jit,jvm
 cover:  "/assets/instacode.png"
 ---
 
